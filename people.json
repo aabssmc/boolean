@@ -1,8 +1,8 @@
-[
-  "aabss",
-  "Oiiink",
-  "Ramezsushi",
-  "Skeppy",
-  "srynx",
-  "BadBoyHalo"
-]
+{
+  "aabss": "red",
+  "Skeppy": "red",
+  "BadBoyHalo": "red",
+  "Oiiink": "purple",
+  "Ramezsushi": "purple",
+  "srynx": "purple"
+}
